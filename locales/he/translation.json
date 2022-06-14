@@ -1,0 +1,52 @@
+{
+  "locale_native_name" : "עברית",
+  "locale_english_name" : "Hebrew",
+
+  "greeting": "שלום אלגוליון!",
+  "score": "חשבון: {{score}}",
+  "lives": "חיים {{count}} נותרה",
+  "lives_plural": "נותרו {{count}} חיים",
+  "friend": "חבר",
+  "friend_male": "חבר",
+  "friend_female": "חברה",
+  "you_can_continue_to_work": "You can continue to work.",
+  "required": "The value is required.",
+
+  "yes": "כן",
+  "no": "לא",
+
+  "common_messages": {
+    "do_you_want_leave_page": "האם אתה רוצה לעזוב את הדף?"
+  },
+  
+  "validation": {
+    "mandatory": "הערך הוא חובה"
+  },
+
+  "button":{
+    "ok": "כן",
+    "save": "שמור",
+    "dont_save": "לא לשמור",
+    "save_as_draft": "לשמור כטיוטה",
+    "cancel": "בטל",
+    "submit": "שלח",
+    "search": "חפש",
+    "delete": "לִמְחוֹק",
+    "upload": "להעלות",
+    "download": "להוריד",
+    "view": "View",
+    "close": "סגור",
+    "check": "Check",
+    "ignore": "Ignore",
+    "sign-in": "Sign In",
+    "sign-up": "Sign Up",
+    "forgot-password": "שכחת ססמא",
+    "reset": "איפוס",
+    "pay": "שלם"
+  }, 
+
+  "my_batteries": "סוללות שלי"
+}
+
+
+
