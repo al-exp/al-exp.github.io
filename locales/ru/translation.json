@@ -1,0 +1,45 @@
+{
+  "locale_native_name" : "Русский",
+  "locale_english_name" : "Russian",
+
+  "greeting": "Привет, Алголион!",
+  "score": "Счет: {{score}}",
+  "lives": "{{count}} жизнь осталась",
+  "lives_plural": "{{count}} жизней осталось",
+  "friend": "Друг",
+  "friend_male": "Друг",
+  "friend_female": "Подруга",
+  "you_can_continue_to_work": "You can continue to work.",
+  "required": "The value is required.",
+
+  "yes": "Да",
+  "no": "Нет",
+
+  "common_messages": {
+    "do_you_want_leave_page": "Вы уверены, что хотите покинуть эту страницу?"
+  },
+
+  "validation": {
+    "mandatory": "Обязательное поле"
+  },
+
+  "button":{
+    "ok": "Ок",
+    "save": "Сохранить",
+    "save_as_draft": "Сохранить черновик",
+    "cancel": "Отмена",
+    "submit": "Применить",
+    "search": "Поиск",
+    "delete": "Удалить",
+    "view": "Просмотр",
+    "close": "Закрыть",
+    "check": "Проверка",
+    "ignore": "Пропустить",
+    "sign-in": "Sign In",
+    "sign-up": "Sign Up",
+    "forget-password": "Восстановить пароль",
+    "reset": "Сброс"
+  }, 
+
+  "my_batteries": "Мои батарейки"
+}
